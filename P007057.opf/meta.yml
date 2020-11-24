@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD159414
   title: བརྡ་སྤྲོད་མུ་ཐི་ལའི་ཕྲེང་བ།
-  volume: ''
+  volume:
+    174ac445e289470b817215d47663f527:
+      image_group_id: I2PD18977
+      title: Volume 1 of brda sprod mu thi la'i phreng ba/
+      volume_number: 1
+      total_pages: 536
   author: ''
+ebook_metadata:
+  title: བརྡ་སྤྲོད་མུ་ཐི་ལའི་ཕྲེང་བ།
+  author: ''
+  sku: P007057
+  cover: cover.jpg
+  layers:
+  - pagination
