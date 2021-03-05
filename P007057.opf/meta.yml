@@ -1,15 +1,16 @@
-id: opecha:P007057
+id: P007057
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD159414
   title: བརྡ་སྤྲོད་མུ་ཐི་ལའི་ཕྲེང་བ།
-  volume:
+  author: ''
+  volumes:
     174ac445e289470b817215d47663f527:
       image_group_id: I2PD18977
       title: Volume 1 of brda sprod mu thi la'i phreng ba/
       volume_number: 1
       total_pages: 536
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བརྡ་སྤྲོད་མུ་ཐི་ལའི་ཕྲེང་བ།
   author: ''
